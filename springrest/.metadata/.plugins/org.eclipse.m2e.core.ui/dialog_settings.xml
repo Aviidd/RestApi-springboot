@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Prashant Saini\RestApi-springboot\springrest"/>
 			<item value="C:\Users\Prashant Saini\Downloads\springrest"/>
 		</list>
 		<list key="projectNameTemplate">
